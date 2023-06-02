@@ -153,7 +153,11 @@
   border-radius: 15px;
   box-shadow: 10px 10px 10px rgba(0, 0, 20, 0.4);
 }
-
+@media only screen and (max-width: 500px) {
+  .download {
+    max-width: 300px;
+  }
+}
 
 .supportdetails h2 {
   padding: 0px;
