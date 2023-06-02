@@ -1,5 +1,5 @@
 {
-  "name": "website",
+  "name": "bits-and-bobs",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -8,6 +8,7 @@
     "start": "next start",
     "lint": "next lint"
   },
+  "engines": { "node": "18.x" },
   "dependencies": {
     "next": "13.4.4",
     "react": "18.2.0",

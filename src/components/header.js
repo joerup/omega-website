@@ -1,5 +1,4 @@
 import React from 'react'
-import { default as NextLink } from 'next/link'
 import styles from '../styles/header.module.css'
 
 export default function Header({ props }) {
