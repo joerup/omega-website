@@ -23,7 +23,7 @@ export default function Home() {
             <h5><i>Your favorite calculator</i></h5>
 
             <h2>
-            Welcome to Omega Calculator, an intuitive and beautiful calculator for your iPhone or iPad.
+            Welcome to Omega Calculator, a beautiful and intuitive calculator for your iPhone and iPad.
             </h2>
 
             <a href="https://apps.apple.com/us/app/omega-calculator/id1528068503"><img src="download.svg" className={styles.download}></img></a>
@@ -31,12 +31,11 @@ export default function Home() {
             <br/><br/>
 
             <h2>
-              It’s powerful and capable. A full-blown scientific calculator when you need it, and a simple arithmetic device when you don’t. 
+            It’s both familiar and powerful. A full-blown scientific calculator when you need it, and a simple arithmetic device when you don’t. 
             </h2>
 
             <p>
-              A myriad of capabilities to suit your needs, from trivial computations to advanced mathematical functions. Need to calculate the tip on your restaurant bill? No problem. Craving a challenging trigonometry problem? Consider it solved. Omega is your versatile mathematical sidekick, ready to tackle any numerical task you throw its way.
-            </p>
+             A myriad of capabilities to suit your needs, from trivial computations to advanced mathematical functions. Perfect for students and professionals alike, or anyone in need of a high-quality, visually-pleasing calculator, capable of performing any mathematical task you throw its way.            </p>
             <br/><br/>
 
             <div className={styles.scrollmenu}>
@@ -56,31 +55,31 @@ export default function Home() {
             <br/>
 
             <h2>
-            Simplicity meets elegance in the app’s intuitive design.
+            Simplicity meets elegance in the app’s intuitive design. 
             </h2>
 
             <p>
-            Buttons are arranged to maximize efficiency and ease of use. The whole expression appears on one line as you input it, and then together with the result when you press enter. You can type in crazy long expressions and it’s a breeze. Results are also saved to a history tape for future use.
+            The interface is smooth, fluid, and fun. Buttons are large and colorful, arranged to maximize efficiency and ease of use. The whole expression appears on one line as you input it, and then together with the result when you press enter. Characters are given high-quality mathematical typesetting. You can type in crazy long expressions and it’s a breeze. Results are saved to a history tape for future use. And you have the freedom to customize your calculator with different themes.             
             </p>
 
             <br/>
 
             <h2>
-            It’s a beautiful and seamless experience. 
+            We’re committed to providing an ad-free experience for everyone. 
             </h2>
             
             <p>
-            The interface is smooth, fluid, and fun. Buttons are large and colorful. Characters are given high-quality mathematical typesetting. And you have the freedom to customize your calculator with a vast selection of color themes. 
+            No one wants to be interrupted by irrelevant ads while trying to use their calculator. That’s why Omega has no outside advertisements. We also don’t collect any data from users. Your calculations and any other information are kept on your device only. 
             </p>
 
             <br/>
 
             <h2>
-            And the best part: the app is free to use, and it has no third-party advertisements – for everyone, forever. 
+            Unlock even more features with Omega Pro.
             </h2>
 
             <p>
-            Yes, you read that right. No longer shall you be bombarded with nonsensical, pesky ads while trying to add some numbers together! Delight in the sweet sensation of subtracting one item from your monthly expenses, thanks to your new OMEGA calculator.
+            Available as a single in-app purchase. All 30+ themes, an interactive text pointer for editing the input line, and saving and exporting your past calculations. Variables for storing and recalling values, plugging numbers into expressions, graphing functions, and more advanced operations like summation, derivatives, and integrals. 
             </p>
 
             <br/>
@@ -91,7 +90,7 @@ export default function Home() {
 
             <br/>
             <br/>
-            <h2>It’s time to get the best calculator experience.<br/>Download Omega Calculator for free today!</h2>
+            <h2>It’s time to get the best calculator experience.<br/>Download Omega Calculator today.</h2>
 
             <br/>
 

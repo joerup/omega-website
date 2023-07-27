@@ -7,7 +7,7 @@ export default function Header({ props }) {
     <header className={styles.navbar}>
       <a href="/">
         <div className={styles.navleft}>
-          <img className={styles.logo} src="/images/icons/Omega_Classic_Blue.png"/>
+          <img className={styles.logo} src="/images/icons/Omega_Classic.png"/>
           <h1 className={styles.title}>Omega Calculator</h1>
         </div>
       </a>

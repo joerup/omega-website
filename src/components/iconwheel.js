@@ -8,11 +8,11 @@ export default function IconWheel() {
     <Link href="../../">
       <div className={styles.calcimageborder}> 
         <div className={styles.calcimage}> 
-          <img src="images/icons/Omega_Cool.png" className={styles.tertiary}/>
-          <img src="images/icons/Omega_Classic_Pink.png" className={styles.secondary}/>
-          <img src="images/icons/Omega_Classic_Blue.png" className={styles.primary}/>
-          <img src="images/icons/Omega_Life.png" className={styles.secondary}/>
-          <img src="images/icons/Omega_Warm.png" className={styles.tertiary}/>
+          <img src="images/icons/Omega_Aquatic.png" className={styles.tertiary}/>
+          <img src="images/icons/Omega_Special.png" className={styles.secondary}/>
+          <img src="images/icons/Omega_Classic.png" className={styles.primary}/>
+          <img src="images/icons/Omega_Grassy.png" className={styles.secondary}/>
+          <img src="images/icons/Omega_Ruby.png" className={styles.tertiary}/>
         </div>
       </div>
     </Link>
