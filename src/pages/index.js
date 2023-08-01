@@ -20,7 +20,7 @@ export default function Home() {
             <IconWheel/>
                 
             <h1 className={styles.largeTitle}>Omega Calculator</h1>
-            <h5><i>Your favorite calculator</i></h5>
+            <h5>Basic & Scientific Calculator</h5>
 
             <h2>
             Welcome to Omega Calculator, a beautiful and intuitive calculator for your iPhone and iPad.
